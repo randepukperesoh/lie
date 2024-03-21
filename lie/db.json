@@ -7,17 +7,35 @@
             {
                 "id": 1,
                 "question": "lorem",
-                "options": [
-                    {
-                        "value": "lorem"
-                    },
-                    {
-                        "value": "lorem2"
-                    },
-                    {
-                        "value": "lorem3"
+                "options": {
+                        "A": "lorem",                  
+                        "B": "lorem2",
+                        "C": "lorem3"
                     }
-                ]
+            },{
+                "id": 2,
+                "question": "lorem",
+                "options": {
+                    "A": "lorem",                  
+                    "B": "lorem2",
+                    "C": "lorem3"
+                }
+            },{
+                "id": 3,
+                "question": "lorem",
+                "options": {
+                    "A": "lorem",                  
+                    "B": "lorem2",
+                    "C": "lorem3"
+                }
+            },{
+                "id": 4,
+                "question": "lorem",
+                "options": {
+                    "A": "lorem",                  
+                    "B": "lorem2",
+                    "C": "lorem3"
+                }
             }
         ]
       },
